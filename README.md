@@ -1,10 +1,13 @@
+<!DOCTYPE html>
 <html>
 <head>
-      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 <body>
       <a class="github-button" href="https://github.com/blockchaindecryptor" aria-label="Follow @blockchaindecryptor on GitHub">Follow @blockchaindecryptor</a>
 </body>  
+
+  
 </html>
 
 
