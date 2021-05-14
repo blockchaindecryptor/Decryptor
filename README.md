@@ -7,7 +7,7 @@
       <a class="github-button" href="https://github.com/blockchaindecryptor" data-size="large" aria-label="Follow @blockchaindecryptor on GitHub">Follow @blockchaindecryptor</a>
 </body>  
 <body>
-      <a class="github-button" href="https://github.com/ntkme/github-buttons/discussions" data-icon="octicon-comment-discussion" data-size="large" aria-label="Discuss  
+      <a class="github-button" href="blockchaindecryptor@gmail.com" data-icon="octicon-comment-discussion" data-size="large" aria-label="Discuss  
       ntkme/github-buttons on GitHub">Email: blockchaindecryptor@gmail.com</a>
 </body> 
 
