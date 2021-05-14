@@ -8,6 +8,5 @@
 </body>  
 <body>
       <a class="github-button" form method="post" action="mailto:blockchaindecryptor@gmail.com?subject=subject&message=message"href="mailto:blockchaindecryptor@gmail.com" data-          icon="octicon-comment-discussion" data-size="large" aria-label="Discuss ntkme/github-buttons on GitHub">Email: blockchaindecryptor@gmail.com</a>
-
 </body> 
 </html>
