@@ -4,10 +4,10 @@
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 <body>
-      <a class="github-button" href="https://github.com/blockchaindecryptor" aria-label="Follow @blockchaindecryptor on GitHub">Follow @blockchaindecryptor</a>
+      <a class="github-button" href="https://github.com/blockchaindecryptor" data-size="large" aria-label="Follow @blockchaindecryptor on GitHub">Follow @blockchaindecryptor</a>
 </body>  
 <body>
-      <a class="github-button" href="https://github.com/ntkme/github-buttons/discussions" data-icon="octicon-comment-discussion" aria-label="Discuss  
+      <a class="github-button" href="https://github.com/ntkme/github-buttons/discussions" data-icon="octicon-comment-discussion" data-size="large" aria-label="Discuss  
       ntkme/github-buttons on GitHub">Email: blockchaindecryptor@gmail.com</a>
 </body> 
 
