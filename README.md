@@ -4,6 +4,9 @@
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 <body>
+      <img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" />
+</body>
+<body>
       <a class="github-button" href="https://github.com/blockchaindecryptor" data-size="large" aria-label="Follow @blockchaindecryptor on GitHub">Follow @blockchaindecryptor</a>
 </body>  
 <body>
