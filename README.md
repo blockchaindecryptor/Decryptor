@@ -10,7 +10,7 @@
       <a class="github-button" href="mailto:blockchaindecryptor@gmail.com" data-icon="octicon-comment-discussion" data-size="large" aria-label="Discuss ntkme/github-buttons on GitHub">Email: blockchaindecryptor@gmail.com</a>
 </body> 
 <div>
-      <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-follow-button twitter-follow-button-rendered"                 style="position: static; visibility: visible; width: 210px; height: 20px;" title="Twitter Follow Button"                            
+      <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-follow-button twitter-follow-button-rendered"                 style="position: static; visibility: visible; width: 300px; height: 20px;" title="Twitter Follow Button"                            
             src="https://platform.twitter.com/widgets/follow_button.06c6ee58c3810956b7509218508c7b56.en.html#dnt=false&amp;id=twitter-widget-         
             0&amp;lang=en&amp;screen_name=ChainDecryptor&amp;show_count=true&amp;show_screen_name=true&amp;size=m&amp;time=1624569343375" data-screen-name="ChainDecryptor">
       </iframe>
